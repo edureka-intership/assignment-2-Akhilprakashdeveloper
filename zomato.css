@@ -1,0 +1,172 @@
+header{
+    height: 450px;
+    width: 100%;
+    background-image: url(images/headerimage.png);
+     background-repeat:round;
+}
+#brand{
+    color: white;
+
+}
+.nav-color{
+    color: white;
+    
+}
+#collapsibleNavbar ul li a{
+    padding-right: 33px;
+}
+
+.headcard{
+    height: 20em;
+    width:40em;
+    margin-left: 350px; 
+    margin-top: 55px;  
+}
+.container-heading{
+    height:130px;
+   width: auto;
+   margin-top: 55px;
+}
+#containertext1{
+    color: #fff;
+    font-size:80px;
+    margin-top: -3%;
+}
+#containertext2{
+    color:#fff;
+    font-size:40px;
+    margin-top: -2%;
+}
+
+#header-searchbar{
+    height: 55px;
+    width:44%;
+    background-color: #fff;
+    margin-top: 4%;
+   border-radius: 5px;
+}
+.dropdown button{
+    height: 55px;
+    margin-left: -2%;
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
+    border:none;
+    background-color: #fff;
+    color: black;
+    float: left;
+
+}
+#locationicon{
+    color: red;
+}
+#locationicon span{
+    color: rgb(21, 12, 12);
+}
+.btn-icon{
+    height: 55px;
+    width: 55px;
+}
+.form-control{
+    border: 0px;
+}
+.card-card1{
+   width: 35%;
+   height: 230px;
+   margin-left: 13%;
+   margin-top: 30px;
+   border-radius: 3%;
+   float: left;
+}
+.card-img-top{
+    height: 150px;
+ }
+#card1text1{
+    margin-top: -2%;
+    color: black;
+    font-size: 130%;
+}
+#card1text2{
+    margin-top: -1%;
+    color: grey;
+}
+.card-card2{
+    width: 35%;
+    height: 230px;
+    margin-left: 3%;
+    margin-top: 30px;
+    border-radius: 3%;
+    float: left;
+ }
+ #card2text1{
+    margin-top: -2%;
+    color: black;
+    font-size: 130%;
+}
+#card2text2{
+    margin-top: -1%;
+    color:gray;
+  
+}
+.container-row2{
+    width: 15%;
+    height: 300px;
+    margin-left: 18%;
+    float: left;
+}
+.card-img{
+    height: 250px;
+    width: 100%;
+}
+#row2heading{
+    margin-left: 19%;
+    font-size: 300%;
+}
+.container-row2cards{
+    width: 15%;
+    height: 300px;
+    margin-left:1%;
+    float: left;
+}
+.cardtexts{
+    position: absolute;
+    margin-top: 113%;
+    margin-left: 10%;
+    font-weight:500;
+    color: #fff;
+}
+
+footer{
+    width: 100%;
+    height: 282px;
+    background-color:rgb(245, 246, 247);
+    margin-top: auto;
+    margin-top: 1%;
+   }
+   .footercontent{
+       width: 15%;
+       margin-left: 5%;
+       margin-top: 1%;
+       float: left;
+       margin-top: 2%;
+   
+   }
+   .footercontent span{
+       font-weight: bolder;
+       color: rgb(0, 0, 0);
+   }
+   .footercontent a{
+   text-decoration: none;
+   }
+   .footercontent p{
+       font-weight:lighter;
+       color: rgb(73, 50, 45);
+   }
+   .footercontent .fa{
+       font-size: 25px;
+       width: 35px;
+       height: 35px;
+       text-align: center;
+       text-decoration: none;
+       border-radius: 50%;
+   }
+   
